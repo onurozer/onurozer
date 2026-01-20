@@ -1,6 +1,6 @@
 Hi 👋 I'm Onur, a marketer turned bootstrapper and a Ruby on Rails developer.
 
-After two decades of doing marketing at agencies like [R/GA](https://rga.com) and MNCs such as [American Express](https://www.americanexpress.com/) and [Mastercard](https://www.mastercard.com), I've started teaching myself Ruby and building businesses on the internet.
+After two decades of doing marketing at agencies, startups and MNCs, I've started teaching myself Ruby and building businesses on the internet.
 
 Here are some of my recent projects:
 
