@@ -4,9 +4,8 @@ After two decades of doing marketing at agencies, startups and MNCs, I've starte
 
 Here are some of my recent projects:
 
+- [CoGrid](https://cogrid.com) - Competitive Intelligence for small SaaS teams
 - [Meet Lars](https://meetlars.com) - AI-powered marketing strategy and positioning tool
 - [APAC Agencies](https://apacagencies.com) - Curated directory of top creative and digital agencies in Asia Pacific
-- [Craft Tattoo](https://craft.tattoo) - AI tattoo design generator with multiple art styles
-- [Forage](https://forage.sg) - Food and drink recipe blog without life stories, ads or trackers
 
 Check out my website at [onurozer.me](https://onurozer.me) and feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/onurozer/) or [Bluesky](https://bsky.app/profile/onurozer.me).
